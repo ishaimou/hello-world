@@ -17,7 +17,6 @@
       name="psw-repeat"
       required
     />
-    <br />
     <label>
       <input
         type="checkbox"
