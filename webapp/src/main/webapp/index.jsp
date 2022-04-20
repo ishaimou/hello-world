@@ -4,7 +4,7 @@
   </div>
 
   <div class="container">
-    <h1>Sign Up NOW</h1>
+    <h1>SIGN UP FORM</h1>
     <p>Please fill in this form to create an account.</p>
     <hr />
 
