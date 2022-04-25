@@ -1,8 +1,4 @@
 <form action="action_page.php" method="post">
-  <div class="imgcontainer">
-    <img src="img_avatar2.png" alt="Avatar" class="avatar" />
-  </div>
-
   <div class="container">
     <h1>SIGN UP FORM:</h1>
     <p style="color: darkred">Please fill in this form to create an account.</p>
